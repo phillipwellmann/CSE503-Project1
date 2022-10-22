@@ -1,5 +1,5 @@
 # CSE503-Project1
-C++ Project to create an autocomplete search using Trie's. 
+C++ Project to create an autocomplete search.
 
 Assignment Description:
 Dictionary.txt is provided to you to construct the Trie. Each line contains a valid search query. Your task
